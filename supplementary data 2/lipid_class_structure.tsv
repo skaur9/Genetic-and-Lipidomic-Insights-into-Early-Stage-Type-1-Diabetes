@@ -1,0 +1,24 @@
+Group	Lipid_class	Abbreviation	Amount
+Glycerolipids	Diacylglycerols	DG	14
+Glycerolipids	Triglycerides	TG	28
+Glycerophospholipids	Ether Lysophosphatidylcholines	LPC-O	9
+Glycerophospholipids	Ether/vinyl Phosphatidylcholines	PC-O	20
+Glycerophospholipids	Vinyl Phosphatidylcholines	PC-P	13
+Glycerophospholipids	Ether/vinyl Phosphatidylethanolamine	PE-O	12
+Glycerophospholipids	Vinyl Phosphatidylethanolamine	PE-P	11
+Glycerophospholipids	Lysophosphatidylcholines	LPC	22
+Glycerophospholipids	Lysophosphatidylethanolamines	LPE	6
+Glycerophospholipids	Lysophosphatidylinositols	LPI	4
+Glycerophospholipids	Phosphatidylcholines	PC	48
+Glycerophospholipids	Phosphatidylethanolamines	PE	21
+Glycerophospholipids	Phosphatidylglycerols	PG	3
+Glycerophospholipids	Phosphatidylinositols	PI	16
+Glycerophospholipids	Phosphatidylserines	PS	7
+Sphingolipids	Ceramides	Cer	6
+Sphingolipids	Dihydroceramides	dhCer	6
+Sphingolipids	Dihydrocerols	DHC	6
+Sphingolipids	Gangliosides	GM3	6
+Sphingolipids	Monohexosylceramides	MHC	6
+Sphingolipids	Sphingomyelins	SM	21
+Sphingolipids	Trihexosylceramides	THC	6
+Sterol Lipids	Cholesteryl Esters	CE	26
